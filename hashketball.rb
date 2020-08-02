@@ -110,6 +110,6 @@ game_hash = {
   }
 }
 def game_hash
-  puts {}
+  return game_hash
 end  
  
