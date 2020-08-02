@@ -109,6 +109,7 @@ game_hash = {
     ]
   }
 }
-
-  
+def game_hash
+  puts {}
+end  
  
